@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033101266825",
+    "firebase_url": "https://destiny-slots-d829f.firebaseio.com",
+    "project_id": "destiny-slots-d829f",
+    "storage_bucket": "destiny-slots-d829f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033101266825:android:97ac5c6a8059112e601b58",
+        "android_client_info": {
+          "package_name": "Slots.slot.machine.casino.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033101266825-bd6lkb4kti8bfg67eh6fhprph6kb5gnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFt7KlJa_sclsRjdUqZyMoqxIhkOjBTWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033101266825-bd6lkb4kti8bfg67eh6fhprph6kb5gnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
